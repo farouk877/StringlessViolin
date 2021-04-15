@@ -9,3 +9,7 @@ information from an accelerometer/gyroscope (bow angle), joystick (bow downpress
 ### Watch our demo video linked below!
 
 *link here*
+
+### Libraries used:
+Volume (by Connor Nishijima V1.1.2)
+MPU6050_tockn (by tockn V1.5.2)

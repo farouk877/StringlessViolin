@@ -12,14 +12,7 @@ void loop() {
   // put your main code here, to run repeatedly:
   double x = analogRead(X_pin) - 507;
   double y = analogRead(Y_pin) - 505;
-
-  Serial.print(x);
-//  Serial.print(analogRead(X_pin));
-  Serial.print(", ");
-  Serial.print(y);
-//  Serial.print(analogRead(Y_pin));
-  Serial.print(", ");
-
-  double magnitude = sqrt((x * x) + (y * y));
-  Serial.println(magnitude);
+  
+  int volume = int(sqrt((x * x) + (y * y)) / 731 * 255);
+  Serial.println(volume);
 }

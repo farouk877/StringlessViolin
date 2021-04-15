@@ -18,12 +18,12 @@ void setup()
 
 void loop()
 {
-//  gameboy();  // Nostalgia!
-//  vol.delay(1000);
-//  wolfWhistle();  // Wee-woo!
-//  vol.delay(1000);
-//  R2D2();         // BRRT doo doo doo doo doo doo doo doo DIOooo BRRT!
-//  vol.delay(1000);
+  gameboy();  // Nostalgia!
+  vol.delay(1000);
+  wolfWhistle();  // Wee-woo!
+  vol.delay(1000);
+  R2D2();         // BRRT doo doo doo doo doo doo doo doo DIOooo BRRT!
+  vol.delay(1000);
   jetsons();   // Wuuuuub wuuuub wuuub wuub wub wub wub wubwubwubwubwub!
   vol.delay(1000);
 }

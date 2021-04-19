@@ -24,7 +24,7 @@ char* convert_int16_to_str(int16_t i) { // converts int16 to string. Moreover, r
 int speakerpin = 4;
 
 // NATURAL VIOLIN NOTES (HARD TO PLAY WITH OUR 4 FRET PROGRESSION) 
-// melody[fret][string] // frets will be pairs 000, 100, 110, 010, 011, 001, 101, 111 
+// melody[fret][string] 
 //int melody[8][4] = {{NOTE_G3,  NOTE_D4,  NOTE_A4,  NOTE_E5},
 //                    {NOTE_GS3, NOTE_DS4, NOTE_AS4, NOTE_F5},
 //                    {NOTE_A3,  NOTE_E4,  NOTE_B4,  NOTE_FS5},
@@ -50,7 +50,7 @@ int melody[8][4] = {
 //                    {NOTE_D4,  NOTE_A4,  NOTE_E5,  NOTE_B6}
                    };
 
-// frets will be pairs 000, 001, 011, 010, 110, 100, 101, 111
+// frets will be pairs 000, 111, 100, 110, 010, 011, 001, 101
 int fretIndexes[8] = {0, 2, 4, 3, 6, 7, 5, 1};
 
 // note durations: 4 = quarter note, 8 = eighth note, etc.

@@ -4,7 +4,7 @@ Welcome to [Farouk Marhaba](https://www.linkedin.com/in/faroukmarhaba/) and [Nam
 
 We've created a stringless violin from the ground up, capable of virtual string selection, dynamic volume control, and fretting selection. To accomplish these tasks, we fused sensory information from an accelerometer/gyroscope (bow angle), joystick (bow downpress magnitude), and Darlington-pair touch sensor (fretting).
 
-![Our Stringless Violin](/images/violin.jpg)
+![Our Stringless Violin](./images/violin.jpg)
 
 ### Watch our demo video linked below!
 

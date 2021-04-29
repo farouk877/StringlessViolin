@@ -1,6 +1,6 @@
-# ModernViolin
+# Stringless Violin
 
-Welcome to [Farouk Marhaba](https://www.linkedin.com/in/faroukmarhaba/) and [Naman Bhargava](https://www.linkedin.com/in/naman-bhargava/)'s *Modern Violin* Project!
+Welcome to [Farouk Marhaba](https://www.linkedin.com/in/faroukmarhaba/) and [Naman Bhargava](https://www.linkedin.com/in/naman-bhargava/)'s *Stringless Violin* Project!
 
 We've created a stringless violin from the ground up, capable of virtual string selection, dynamic volume control, and fretting selection. To accomplish these tasks, we fused sensory information from an accelerometer/gyroscope (bow angle), joystick (bow downpress magnitude), and Darlington-pair touch sensor (fretting).
 

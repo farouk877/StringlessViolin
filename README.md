@@ -11,5 +11,4 @@ We've created a stringless violin from the ground up, capable of virtual string 
 [https://www.youtube.com/watch?v=GlqVRhMW78Y](https://www.youtube.com/watch?v=GlqVRhMW78Y)
 
 ### Libraries used:
-Volume (by Connor Nishijima V1.1.2)
-MPU6050_tockn (by tockn V1.5.2)
+Volume (by Connor Nishijima V1.1.2), MPU6050_tockn (by tockn V1.5.2)
